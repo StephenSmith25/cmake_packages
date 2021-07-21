@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/math.dir/main.cpp.o -o math  -Wl,-rpath,/home/stephensmith/Documents/cmake_packages/consumer_project libMathFunctions.so 
